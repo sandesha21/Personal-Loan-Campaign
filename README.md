@@ -57,19 +57,19 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ### Usage
 ```bash
 # Launch the enhanced business analysis notebook
-jupyter notebook AIML_ML_Project_full_code_notebook_v2.ipynb
+jupyter notebook personal_loan_prediction_model_v2.ipynb
 ```
 
 ## 📁 Project Structure
 ```
 Personal-Loan-Campaign/
-├── 📊 AIML_ML_Project_full_code_notebook_v2.ipynb  # Enhanced business analysis
-├── 📊 AIML_ML_Project_full_code_notebook_v1.ipynb  # Original technical analysis  
-├── 📋 PROJECT_REQUIREMENTS.md                      # Detailed project specifications
-├── 📈 Loan_Modelling.csv                          # Primary dataset
-├── 📈 Loan_Modelling copy.csv                     # Dataset backup
-├── 📖 README.md                                   # Project overview
-└── 📄 LICENSE                                     # MIT License
+├── 📊 personal_loan_prediction_model_v2.ipynb     # Enhanced business analysis
+├── 📊 personal_loan_prediction_model_v1.ipynb     # Original technical analysis  
+├── 📋 PROJECT_REQUIREMENTS.md                     # Detailed project specifications
+├── 📈 Loan_Modelling.csv                         # Primary dataset
+├── 📈 Loan_Modelling copy.csv                    # Dataset backup
+├── 📖 README.md                                  # Project overview
+└── 📄 LICENSE                                    # MIT License
 ```
 
 ### 🔥 Featured Notebook: v2 Enhanced Business Analysis
@@ -195,8 +195,8 @@ This project uses anonymized customer data for educational and research purposes
 
 ## 📚 Documentation
 - **📋 [PROJECT_REQUIREMENTS.md](PROJECT_REQUIREMENTS.md)**: Comprehensive project specifications
-- **📊 [Enhanced Notebook v2](AIML_ML_Project_full_code_notebook_v2.ipynb)**: Complete business analysis
-- **📊 [Technical Notebook v1](AIML_ML_Project_full_code_notebook_v1.ipynb)**: Original technical implementation
+- **📊 [Enhanced Notebook v2](personal_loan_prediction_model_v2.ipynb)**: Complete business analysis
+- **📊 [Technical Notebook v1](personal_loan_prediction_model_v1.ipynb)**: Original technical implementation
 
 ## 👨‍💻 Author  
 **Sandesh S. Badwaik**  
