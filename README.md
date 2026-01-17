@@ -202,7 +202,6 @@ This project uses anonymized customer data for educational and research purposes
 **Sandesh S. Badwaik**  
 *Data Scientist & Machine Learning Engineer*
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sbadwaik/)
-- 📧 [Email](mailto:your.email@example.com)
 - 🐙 [GitHub](https://github.com/sandesha21)
 
 ---
