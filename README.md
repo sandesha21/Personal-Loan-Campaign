@@ -236,9 +236,17 @@ This project uses anonymized customer data for educational and research purposes
 
 ## 👨‍💻 Author  
 **Sandesh S. Badwaik**  
-*Data Scientist & Machine Learning Engineer*  
+*Data Scientist & Machine Learning Engineer*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbadwaik/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesha21)
+
+### 🎯 About This Project
+This project demonstrates advanced data science capabilities in the banking sector, showcasing:
+- **Business Analytics**: ROI optimization and customer segmentation
+- **Machine Learning**: Predictive modeling with 98.6% accuracy
+- **Strategic Thinking**: Data-driven marketing recommendations
+- **Technical Excellence**: Clean code and comprehensive documentation
 
 ---
 
