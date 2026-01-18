@@ -2,7 +2,28 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-green.svg)](https://scikit-learn.org/)
+[![pandas](https://img.shields.io/badge/pandas-1.5+-red.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/sandesha21/Personal-Loan-Campaign?style=social)](https://github.com/sandesha21/Personal-Loan-Campaign/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sandesha21/Personal-Loan-Campaign?style=social)](https://github.com/sandesha21/Personal-Loan-Campaign/network)
+
+[![Model Accuracy](https://img.shields.io/badge/Model%20Accuracy-98.6%25-brightgreen.svg)](personal_loan_prediction_model_v2.ipynb)
+[![ROI Improvement](https://img.shields.io/badge/ROI%20Improvement-156%25-success.svg)](personal_loan_prediction_model_v2.ipynb)
+[![Business Impact](https://img.shields.io/badge/Annual%20Profit-$2.4M+-gold.svg)](personal_loan_prediction_model_v2.ipynb)
+[![Data Science](https://img.shields.io/badge/Project%20Type-Data%20Science-blueviolet.svg)](#)
+[![Banking](https://img.shields.io/badge/Industry-Banking%20%26%20Finance-navy.svg)](#)
+
+## 📋 Table of Contents
+- [🎯 Project Overview](#-project-overview)
+- [🚀 Business Impact](#-business-impact)
+- [📊 Dataset Overview](#-dataset-overview)
+- [🚀 Quick Start](#-quick-start)
+- [🏆 Model Performance & Business Results](#-model-performance--business-results)
+- [🔍 Key Business Insights & Customer Segments](#-key-business-insights--customer-segments)
+- [🚀 Strategic Business Recommendations](#-strategic-business-recommendations)
+- [🛠️ Technical Stack](#️-technical-stack)
+- [📚 Documentation](#-documentation)
 
 ## 🎯 Project Overview  
 This comprehensive data science project focuses on transforming AllLife Bank's marketing strategy through predictive analytics. By leveraging advanced machine learning techniques on customer demographic, financial, and behavioral data, we've developed a precision-targeting system that **improves campaign ROI by 156%** and increases conversion rates from 9.6% to 15%+.
@@ -67,9 +88,8 @@ Personal-Loan-Campaign/
 ├── 📊 personal_loan_prediction_model_v1.ipynb     # Original technical analysis  
 ├── 📋 PROJECT_REQUIREMENTS.md                     # Detailed project specifications
 ├── 📈 Loan_Modelling.csv                         # Primary dataset
-├── 📈 Loan_Modelling copy.csv                    # Dataset backup
-├── 📖 README.md                                  # Project overview
-└── 📄 LICENSE                                    # MIT License
+├── � README.md                                  # Project overview
+└── � LICENSE                                    # MIT License
 ```
 
 ### 🔥 Featured Notebook: v2 Enhanced Business Analysis
@@ -216,12 +236,10 @@ This project uses anonymized customer data for educational and research purposes
 
 ## 👨‍💻 Author  
 **Sandesh S. Badwaik**  
-*Data Scientist & Machine Learning Engineer*
+*Data Scientist & Machine Learning Engineer*  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbadwaik/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesha21)
 
 ---
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
 
 📄 **License**: This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
