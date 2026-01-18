@@ -198,11 +198,27 @@ This project uses anonymized customer data for educational and research purposes
 - **📊 [Enhanced Notebook v2](personal_loan_prediction_model_v2.ipynb)**: Complete business analysis
 - **📊 [Technical Notebook v1](personal_loan_prediction_model_v1.ipynb)**: Original technical implementation
 
+## 🏷️ **Keywords & Topics**
+
+**Primary Keywords:** `Data Science` • `Machine Learning` • `Banking Analytics` • `Python` • `Personal Loan Prediction`
+
+**Technical Stack:** `Pandas` • `Scikit-Learn` • `Decision Trees` • `Data Visualization` • `Jupyter Notebook`
+
+**Business Focus:** `Customer Segmentation` • `Campaign Optimization` • `ROI Analysis` • `Predictive Modeling` • `Marketing Analytics`
+
+**Industry:** `Banking` • `Financial Services` • `Loan Marketing` • `Customer Analytics` • `Business Intelligence`
+
+#### 🌟 **If you found this project helpful, please give it a ⭐!**
+
+---
+
+**Project Type**: Business Analytics & Machine Learning | **Industry**: Banking & Financial Services | **Focus**: Customer Targeting & Campaign ROI Optimization
+
 ## 👨‍💻 Author  
 **Sandesh S. Badwaik**  
 *Data Scientist & Machine Learning Engineer*
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sbadwaik/)
-- 🐙 [GitHub](https://github.com/sandesha21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbadwaik/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesha21)
 
 ---
 
